@@ -1,0 +1,34 @@
+#keybind configuration 
+keybind = alt+c=new_tab
+keybind = alt+x=close_tab
+keybind = alt+1=goto_tab:1
+keybind = alt+2=goto_tab:2
+keybind = alt+3=goto_tab:3
+keybind = alt+4=goto_tab:4
+keybind = alt+5=goto_tab:5
+keybind = alt+6=goto_tab:6
+keybind = alt+7=goto_tab:7
+keybind = alt+8=goto_tab:8
+keybind = alt+9=goto_tab:9
+keybind = alt+shift+h=previous_tab
+keybind = alt+shift+l=next_tab
+keybind = alt+\=new_split:right
+keybind = alt+-=new_split:down
+keybind = alt+h=goto_split:left
+keybind = alt+j=goto_split:down
+keybind = alt+k=goto_split:up
+keybind = alt+l=goto_split:right
+keybind = alt+q=close_surface
+#functionality specification
+command = /usr/bin/zsh
+#theme and look
+font-family = "JetBrainsMono Nerd Font"
+font-style = Regular
+font-size = 13
+font-feature = "+liga"
+cursor-style = "block"
+theme = Catppuccin Mocha
+
+window-theme = ghostty
+
+

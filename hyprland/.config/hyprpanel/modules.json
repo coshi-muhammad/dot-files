@@ -1,0 +1,19 @@
+{
+  "custom/language-indicator":{
+    "icon":"",
+    "label":"{language-short}",
+    "tooltip":"The active language is: {language}",
+    "execute":"$HOME/.config/hyprpanel/scripts/lanugage.sh",
+    "executeOnAction": "",
+    "interval": 300,
+    "hideOnEmpty": true,
+    "scrollThreshold": 1,
+    "actions": {
+      "onLeftClick": "hyprctl switchxkblayout current next",
+      "onRightClick": "",
+      "onMiddleClick": "",
+      "onScrollUp": "",
+      "onScrollDown": ""
+  }
+  }
+}
