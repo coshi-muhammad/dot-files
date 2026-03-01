@@ -27,3 +27,4 @@ require("lazy").setup({
 vim.treesitter.language.ft_to_lang = vim.treesitter.language.get_lang
 require("options")
 require("global-keymaps")
+require("autocmds")

@@ -31,8 +31,9 @@ return {
           ["<C-f>"] = cmp.mapping.scroll_docs(4),
           ["<C-e>"] = cmp.mapping.abort(),
           ["<CR>"] = cmp.mapping.confirm({ select = true }),
-          ["<A-j>"] = cmp.mapping.select_next_item(),
-          ["<A-k>"] = cmp.mapping.select_prev_item(),
+          ["<C-Space>"] = cmp.mapping.complete(),
+          ["<M-j>"] = cmp.mapping.select_next_item(),
+          ["<M-k>"] = cmp.mapping.select_prev_item(),
           ['<Tab>'] = cmp.mapping(function(fallback)
             if cmp.visible() then
               cmp.select_next_item()
@@ -58,7 +59,8 @@ return {
           }, {
             { name = "cmdline" },
           },
-          { { name = 'render-markdown' }
+          {
+            { name = 'render-markdown' }
           }),
       })
     end,

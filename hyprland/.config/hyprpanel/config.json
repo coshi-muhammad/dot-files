@@ -228,7 +228,7 @@
   "bar.clock.format": "%b %d  %I:%M %p",
   "theme.bar.buttons.media.enableBorder": false,
   "bar.media.truncation": true,
-  "bar.media.show_label": true,
+  "bar.media.show_label": false,
   "bar.notifications.show_total": false,
   "bar.notifications.hideCountWhenZero": true,
   "theme.notification.border_radius": "0.0em",
@@ -694,7 +694,6 @@
       ],
       "right": [
         "volume",
-        "network",
         "bluetooth",
         "battery",
         "systray",
@@ -733,5 +732,9 @@
       ]
     }
   },
-  "wallpaper.pywal": false
+  "wallpaper.pywal": false,
+  "bar.bluetooth.label": false,
+  "bar.network.truncation": true,
+  "bar.network.label": false,
+  "theme.bar.buttons.modules.kbLayout.enableBorder": false
 }

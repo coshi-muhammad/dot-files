@@ -21,6 +21,9 @@ return {
       vim.lsp.config("*", {
         capabilities = require("cmp_nvim_lsp").default_capabilities(),
       })
+      vim.lsp.config('qmlls', {
+        cmd = { 'qmlls', '-E' },
+      })
       vim.api.nvim_create_autocmd("LspAttach", {
         callback = function(args)
           local opts = { buffer = args.buf }
