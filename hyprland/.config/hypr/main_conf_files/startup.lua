@@ -4,10 +4,7 @@ hl.on("hyprland.start", function()
   -- background tasks
   hl.exec_cmd(globals.launch_commands.sync_utility)
   hl.exec_cmd(globals.launch_commands.panel)
-  hl.exec_cmd(globals.launch_commands.wifi_applet)
   hl.exec_cmd(globals.launch_commands.wallpaper_engine)
-  hl.exec_cmd(globals.launch_commands.wallpaper_helper)
-  hl.exec_cmd(globals.launch_commands.idling_utility)
   hl.exec_cmd(globals.launch_commands.polkit)
   hl.exec_cmd(globals.launch_commands.wallet)
 

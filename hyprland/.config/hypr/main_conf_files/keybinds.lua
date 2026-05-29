@@ -21,7 +21,7 @@ hl.bind(globals.key_combinations.secondary_mod .. " + Print", hl.dsp.exec_cmd(gl
 
 -- toggles
 hl.bind(globals.key_combinations.main_mod .. " + W", function()
-  hl.exec_cmd(globals.scripts.wallpaper_toggle)
+  hl.exec_cmd(globals.action_commands.panel_helper .. " wallpaper -r")
 end)
 hl.bind(globals.key_combinations.main_mod .. " + P", function()
   require("scripts." .. globals.scripts.power_profiles_toggle)
@@ -30,28 +30,14 @@ hl.bind("F9", function()
   require("scripts." .. globals.scripts.idling_toggle)
 end)
 
--- hyprpanel controls
-hl.bind(globals.key_combinations.main_mod .. " + R", hl.dsp.exec_cmd("hyprpanel -q ; hyprpanel"))
-hl.bind(globals.key_combinations.main_mod .. " + M", hl.dsp.exec_cmd("hyprpanel t dashboardmenu"))
+-- caelestia controls
+hl.bind(globals.key_combinations.main_mod .. " + R",
+  hl.dsp.exec_cmd("pkill " .. globals.action_commands.panel_helper .. " ; " .. globals.launch_commands.panel))
+hl.bind(globals.key_combinations.main_mod .. " + M", hl.dsp.global("caelestia:dashboard"))
 hl.bind(globals.key_combinations.main_mod .. " + " .. globals.key_combinations.secondary_mod .. " + M",
-  function()
-    hl.exec_cmd("hyprpanel t powerdropdownmenu")
-    hl.dispatch(hl.dsp.submap("power"))
-  end)
-hl.bind(globals.key_combinations.main_mod .. " + C", hl.dsp.exec_cmd("hyprpanel t settings-dialog"))
-hl.bind(globals.key_combinations.main_mod .. " + Y", hl.dsp.exec_cmd("hyprpanel t bluetoothmenu"))
+  hl.dsp.global("caelestia:session"))
+hl.bind(globals.key_combinations.main_mod .. " + C", hl.dsp.exec_cmd("caelestia shell controlCenter open"))
 
--- the power submap
-hl.define_submap("power", "reset", function()
-  hl.bind("P", hl.dsp.exec_cmd("hyprpanel t powerdropdownmenu && systemctl poweroff"))
-  hl.bind("R", hl.dsp.exec_cmd("hyprpanel t powerdropdownmenu && systemctl reboot"))
-  hl.bind("S", hl.dsp.exec_cmd("hyprpanel t powerdropdownmenu && systemctl suspend"))
-  hl.bind("L", hl.dsp.exec_cmd("hyprpanel t powerdropdownmenu && hyprshutdown"))
-  hl.bind("escape", function()
-    hl.exec_cmd("hyprpanel t powerdropdownmenu ")
-    hl.dispatch(hl.dsp.submap("reset"))
-  end)
-end)
 
 -- Window controls
 hl.bind(globals.key_combinations.main_mod .. " + Q", hl.dsp.window.close("activewindow")) -- request closing
