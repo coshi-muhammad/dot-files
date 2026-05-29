@@ -1013,3 +1013,585 @@
 2026-02-26 19:35:13 Success.
 2026-02-26 19:35:13 Latest version is 1.11.7
 2026-02-26 19:35:13 App is up to date.
+2026-03-02 18:03:07 Loaded main app package /usr/lib/obsidian/obsidian.asar
+2026-03-02 18:03:07 Checking for update using Github
+2026-03-02 18:03:07 Success.
+2026-03-02 18:03:07 Latest version is 1.12.4
+2026-03-02 18:03:07 Downloading update from https://github.com/obsidianmd/obsidian-releases/releases/download/v1.12.4/obsidian-1.12.4.asar.gz
+2026-03-02 18:03:52 Verifying hash & signature. Size= 8322418
+2026-03-02 18:03:52 Saving file
+2026-03-02 18:03:52 Update complete.
+2026-03-02 19:03:07 Checking for update using Github
+2026-03-02 19:03:07 Success.
+2026-03-02 19:03:07 Latest version is 1.12.4
+2026-03-02 19:03:07 An update is already downloaded.
+2026-03-02 20:03:07 Checking for update using Github
+2026-03-02 20:03:07 Success.
+2026-03-02 20:03:07 Latest version is 1.12.4
+2026-03-02 20:03:07 An update is already downloaded.
+2026-03-02 21:03:07 Checking for update using Github
+2026-03-02 21:03:07 Success.
+2026-03-02 21:03:07 Latest version is 1.12.4
+2026-03-02 21:03:07 An update is already downloaded.
+2026-03-02 22:03:07 Checking for update using Github
+2026-03-02 22:03:07 Success.
+2026-03-02 22:03:07 Latest version is 1.12.4
+2026-03-02 22:03:07 An update is already downloaded.
+2026-03-04 17:18:17 Loaded updated app package /home/coshi/.config/obsidian/obsidian-1.12.4.asar
+2026-03-04 17:18:17 Checking for update using Github
+2026-03-04 17:18:19 Success.
+2026-03-04 17:18:19 Latest version is 1.12.4
+2026-03-04 17:18:19 App is up to date.
+2026-03-04 18:18:17 Checking for update using Github
+2026-03-04 18:18:19 Success.
+2026-03-04 18:18:19 Latest version is 1.12.4
+2026-03-04 18:18:19 App is up to date.
+2026-03-04 19:18:17 Checking for update using Github
+2026-03-04 19:18:18 Success.
+2026-03-04 19:18:18 Latest version is 1.12.4
+2026-03-04 19:18:18 App is up to date.
+2026-03-05 18:33:53 Loaded updated app package /home/coshi/.config/obsidian/obsidian-1.12.4.asar
+2026-03-05 18:33:53 Checking for update using Github
+2026-03-05 18:33:53 Success.
+2026-03-05 18:33:53 Latest version is 1.12.4
+2026-03-05 18:33:53 App is up to date.
+2026-03-05 19:33:53 Checking for update using Github
+2026-03-05 19:33:53 Success.
+2026-03-05 19:33:53 Latest version is 1.12.4
+2026-03-05 19:33:53 App is up to date.
+2026-03-05 20:33:53 Checking for update using Github
+2026-03-05 20:33:53 Success.
+2026-03-05 20:33:53 Latest version is 1.12.4
+2026-03-05 20:33:53 App is up to date.
+2026-03-05 21:33:53 Checking for update using Github
+2026-03-05 21:33:54 Success.
+2026-03-05 21:33:54 Latest version is 1.12.4
+2026-03-05 21:33:54 App is up to date.
+2026-03-05 22:33:53 Checking for update using Github
+2026-03-05 22:33:53 Success.
+2026-03-05 22:33:53 Latest version is 1.12.4
+2026-03-05 22:33:53 App is up to date.
+2026-03-06 07:59:34 Loaded updated app package /home/coshi/.config/obsidian/obsidian-1.12.4.asar
+2026-03-06 07:59:34 Checking for update using Github
+2026-03-06 07:59:35 Success.
+2026-03-06 07:59:35 Latest version is 1.12.4
+2026-03-06 07:59:35 App is up to date.
+2026-03-06 08:13:32 Loaded updated app package /home/coshi/.config/obsidian/obsidian-1.12.4.asar
+2026-03-06 08:13:32 Checking for update using Github
+2026-03-06 08:13:33 Success.
+2026-03-06 08:13:33 Latest version is 1.12.4
+2026-03-06 08:13:33 App is up to date.
+2026-03-06 09:13:32 Checking for update using Github
+2026-03-06 09:13:33 Success.
+2026-03-06 09:13:33 Latest version is 1.12.4
+2026-03-06 09:13:33 App is up to date.
+2026-03-06 10:13:32 Checking for update using Github
+2026-03-06 10:13:33 Success.
+2026-03-06 10:13:33 Latest version is 1.12.4
+2026-03-06 10:13:33 App is up to date.
+2026-03-06 11:13:32 Checking for update using Github
+2026-03-06 11:13:33 Success.
+2026-03-06 11:13:33 Latest version is 1.12.4
+2026-03-06 11:13:33 App is up to date.
+2026-03-06 15:51:04 Checking for update using Github
+2026-03-06 15:51:05 Success.
+2026-03-06 15:51:05 Latest version is 1.12.4
+2026-03-06 15:51:05 App is up to date.
+2026-03-06 16:51:05 Checking for update using Github
+2026-03-06 16:51:05 Success.
+2026-03-06 16:51:05 Latest version is 1.12.4
+2026-03-06 16:51:05 App is up to date.
+2026-03-06 17:51:05 Checking for update using Github
+2026-03-06 17:51:05 Success.
+2026-03-06 17:51:05 Latest version is 1.12.4
+2026-03-06 17:51:05 App is up to date.
+2026-03-06 18:51:05 Checking for update using Github
+2026-03-06 18:51:05 Success.
+2026-03-06 18:51:05 Latest version is 1.12.4
+2026-03-06 18:51:05 App is up to date.
+2026-03-06 19:51:05 Checking for update using Github
+2026-03-06 19:51:05 Success.
+2026-03-06 19:51:05 Latest version is 1.12.4
+2026-03-06 19:51:05 App is up to date.
+2026-03-07 07:05:48 Checking for update using Github
+2026-03-07 07:05:48 Success.
+2026-03-07 07:05:48 Latest version is 1.12.4
+2026-03-07 07:05:48 App is up to date.
+2026-03-07 08:05:48 Checking for update using Github
+2026-03-07 08:05:48 Success.
+2026-03-07 08:05:48 Latest version is 1.12.4
+2026-03-07 08:05:48 App is up to date.
+2026-03-07 09:05:48 Checking for update using Github
+2026-03-07 09:05:48 Success.
+2026-03-07 09:05:48 Latest version is 1.12.4
+2026-03-07 09:05:48 App is up to date.
+2026-03-09 19:25:33 Loaded updated app package /home/coshi/.config/obsidian/obsidian-1.12.4.asar
+2026-03-09 19:25:33 Checking for update using Github
+2026-03-09 19:25:36 Success.
+2026-03-09 19:25:36 Latest version is 1.12.4
+2026-03-09 19:25:36 App is up to date.
+2026-03-09 20:25:33 Checking for update using Github
+2026-03-09 20:25:40 Success.
+2026-03-09 20:25:40 Latest version is 1.12.4
+2026-03-09 20:25:40 App is up to date.
+2026-03-09 21:25:33 Checking for update using Github
+2026-03-09 21:25:37 Success.
+2026-03-09 21:25:37 Latest version is 1.12.4
+2026-03-09 21:25:37 App is up to date.
+2026-03-09 22:25:33 Checking for update using Github
+2026-03-09 22:25:36 Success.
+2026-03-09 22:25:36 Latest version is 1.12.4
+2026-03-09 22:25:36 App is up to date.
+2026-03-10 19:23:34 Loaded updated app package /home/coshi/.config/obsidian/obsidian-1.12.4.asar
+2026-03-10 19:23:34 Checking for update using Github
+2026-03-10 19:23:37 Success.
+2026-03-10 19:23:37 Latest version is 1.12.4
+2026-03-10 19:23:37 App is up to date.
+2026-03-10 20:23:34 Checking for update using Github
+2026-03-10 20:23:36 Success.
+2026-03-10 20:23:36 Latest version is 1.12.4
+2026-03-10 20:23:36 App is up to date.
+2026-03-10 21:23:34 Checking for update using Github
+2026-03-10 21:23:35 Success.
+2026-03-10 21:23:35 Latest version is 1.12.4
+2026-03-10 21:23:35 App is up to date.
+2026-03-10 22:23:34 Checking for update using Github
+2026-03-10 22:23:35 Success.
+2026-03-10 22:23:35 Latest version is 1.12.4
+2026-03-10 22:23:35 App is up to date.
+2026-03-10 23:23:36 Checking for update using Github
+2026-03-10 23:23:37 Success.
+2026-03-10 23:23:37 Latest version is 1.12.4
+2026-03-10 23:23:37 App is up to date.
+2026-03-15 10:34:09 Loaded main app package /usr/lib/obsidian/obsidian.asar
+2026-03-15 10:34:09 Checking for update using Github
+2026-03-15 10:34:14 Success.
+2026-03-15 10:34:14 Latest version is 1.12.4
+2026-03-15 10:34:14 App is up to date.
+2026-03-16 06:37:54 Loaded main app package /usr/lib/obsidian/obsidian.asar
+2026-03-16 06:37:55 Checking for update using Github
+2026-03-16 06:37:55 Success.
+2026-03-16 06:37:55 Latest version is 1.12.4
+2026-03-16 06:37:55 App is up to date.
+2026-03-17 21:13:59 Loaded main app package /usr/lib/obsidian/obsidian.asar
+2026-03-17 21:13:59 Checking for update using Github
+2026-03-17 21:13:59 Success.
+2026-03-17 21:13:59 Latest version is 1.12.4
+2026-03-17 21:13:59 App is up to date.
+2026-03-21 17:16:54 Loaded main app package /usr/lib/obsidian/obsidian.asar
+2026-03-21 17:16:54 Checking for update using Github
+2026-03-21 17:16:54 Success.
+2026-03-21 17:16:54 Latest version is 1.12.4
+2026-03-21 17:16:54 App is up to date.
+2026-03-21 17:19:03 Loaded main app package /usr/lib/obsidian/obsidian.asar
+2026-03-21 17:19:04 Checking for update using Github
+2026-03-21 17:19:04 Success.
+2026-03-21 17:19:04 Latest version is 1.12.4
+2026-03-21 17:19:04 App is up to date.
+2026-03-21 17:20:26 Loaded main app package /usr/lib/obsidian/obsidian.asar
+2026-03-21 17:20:26 Checking for update using Github
+2026-03-21 17:20:26 Success.
+2026-03-21 17:20:26 Latest version is 1.12.4
+2026-03-21 17:20:26 App is up to date.
+2026-03-22 08:17:39 Loaded main app package /usr/lib/obsidian/obsidian.asar
+2026-03-22 08:17:39 Checking for update using Github
+2026-03-22 08:17:39 Success.
+2026-03-22 08:17:39 Latest version is 1.12.4
+2026-03-22 08:17:39 App is up to date.
+2026-03-22 09:18:50 Loaded main app package /usr/lib/obsidian/obsidian.asar
+2026-03-22 09:18:50 Checking for update using Github
+2026-03-22 09:18:53 Success.
+2026-03-22 09:18:53 Latest version is 1.12.4
+2026-03-22 09:18:53 App is up to date.
+2026-03-22 09:22:44 Loaded main app package /usr/lib/obsidian/obsidian.asar
+2026-03-22 09:23:10 Loaded main app package /usr/lib/obsidian/obsidian.asar
+2026-03-22 09:23:10 Checking for update using Github
+2026-03-22 09:23:11 Success.
+2026-03-22 09:23:11 Latest version is 1.12.4
+2026-03-22 09:23:11 App is up to date.
+2026-03-22 09:45:27 Loaded main app package /usr/lib/obsidian/obsidian.asar
+2026-03-22 09:45:27 Checking for update using Github
+2026-03-22 09:45:29 Success.
+2026-03-22 09:45:29 Latest version is 1.12.4
+2026-03-22 09:45:29 App is up to date.
+2026-03-22 09:51:20 Loaded main app package /usr/lib/obsidian/obsidian.asar
+2026-03-22 09:51:20 Checking for update using Github
+2026-03-22 09:51:27 Success.
+2026-03-22 09:51:27 Latest version is 1.12.4
+2026-03-22 09:51:27 App is up to date.
+2026-03-22 09:56:56 Loaded main app package /usr/lib/obsidian/obsidian.asar
+2026-03-22 09:56:57 Checking for update using Github
+2026-03-22 09:56:57 Success.
+2026-03-22 09:56:57 Latest version is 1.12.4
+2026-03-22 09:56:57 App is up to date.
+2026-03-27 12:37:17 Loaded main app package /usr/lib/obsidian/obsidian.asar
+2026-03-27 12:37:17 Checking for update using Github
+2026-03-27 12:37:18 Success.
+2026-03-27 12:37:18 Latest version is 1.12.7
+2026-03-27 12:37:18 Downloading update from https://github.com/obsidianmd/obsidian-releases/releases/download/v1.12.7/obsidian-1.12.7.asar.gz
+2026-03-27 12:37:31 Verifying hash & signature. Size= 8323080
+2026-03-27 12:37:31 Saving file
+2026-03-27 12:37:31 Update complete.
+2026-03-27 13:37:17 Checking for update using Github
+2026-03-27 13:37:18 Success.
+2026-03-27 13:37:18 Latest version is 1.12.7
+2026-03-27 13:37:18 An update is already downloaded.
+2026-03-27 14:37:17 Checking for update using Github
+2026-03-27 14:37:18 Success.
+2026-03-27 14:37:18 Latest version is 1.12.7
+2026-03-27 14:37:18 An update is already downloaded.
+2026-03-31 16:52:21 Loaded updated app package /home/coshi/.config/obsidian/obsidian-1.12.7.asar
+2026-03-31 16:52:21 Checking for update using Github
+2026-03-31 16:52:23 Success.
+2026-03-31 16:52:23 Latest version is 1.12.7
+2026-03-31 16:52:23 App is up to date.
+2026-03-31 16:53:15 Loaded updated app package /home/coshi/.config/obsidian/obsidian-1.12.7.asar
+2026-03-31 16:53:16 Checking for update using Github
+2026-03-31 16:53:16 Success.
+2026-03-31 16:53:16 Latest version is 1.12.7
+2026-03-31 16:53:16 App is up to date.
+2026-03-31 20:53:19 Loaded updated app package /home/coshi/.config/obsidian/obsidian-1.12.7.asar
+2026-03-31 20:53:19 Checking for update using Github
+2026-03-31 20:53:25 Success.
+2026-03-31 20:53:25 Latest version is 1.12.7
+2026-03-31 20:53:25 App is up to date.
+2026-03-31 21:53:19 Checking for update using Github
+2026-03-31 21:53:30 Success.
+2026-03-31 21:53:30 Latest version is 1.12.7
+2026-03-31 21:53:30 App is up to date.
+2026-04-03 10:07:16 Checking for update using Github
+2026-04-03 10:07:17 Success.
+2026-04-03 10:07:17 Latest version is 1.12.7
+2026-04-03 10:07:17 App is up to date.
+2026-04-03 11:07:16 Checking for update using Github
+2026-04-03 11:07:17 Success.
+2026-04-03 11:07:17 Latest version is 1.12.7
+2026-04-03 11:07:17 App is up to date.
+2026-04-03 12:07:16 Checking for update using Github
+2026-04-03 12:07:17 Success.
+2026-04-03 12:07:17 Latest version is 1.12.7
+2026-04-03 12:07:17 App is up to date.
+2026-04-03 13:07:16 Checking for update using Github
+2026-04-03 13:07:17 Success.
+2026-04-03 13:07:17 Latest version is 1.12.7
+2026-04-03 13:07:17 App is up to date.
+2026-04-03 14:07:16 Checking for update using Github
+2026-04-03 14:07:16 Failed to check for update using Github (net::ERR_INTERNET_DISCONNECTED)
+2026-04-03 14:07:16 Checking for update using obsidian.md
+2026-04-03 14:07:16 Failed to check for update using obsidian.md (net::ERR_INTERNET_DISCONNECTED)
+2026-04-04 06:33:55 Checking for update using Github
+2026-04-04 06:33:55 Success.
+2026-04-04 06:33:55 Latest version is 1.12.7
+2026-04-04 06:33:55 App is up to date.
+2026-04-04 07:33:55 Checking for update using Github
+2026-04-04 07:33:56 Success.
+2026-04-04 07:33:56 Latest version is 1.12.7
+2026-04-04 07:33:56 App is up to date.
+2026-04-04 08:33:55 Checking for update using Github
+2026-04-04 08:33:57 Success.
+2026-04-04 08:33:57 Latest version is 1.12.7
+2026-04-04 08:33:57 App is up to date.
+2026-04-04 09:33:55 Checking for update using Github
+2026-04-04 09:33:55 Success.
+2026-04-04 09:33:55 Latest version is 1.12.7
+2026-04-04 09:33:55 App is up to date.
+2026-04-04 10:33:55 Checking for update using Github
+2026-04-04 10:33:56 Success.
+2026-04-04 10:33:56 Latest version is 1.12.7
+2026-04-04 10:33:56 App is up to date.
+2026-04-04 11:33:55 Checking for update using Github
+2026-04-04 11:33:56 Success.
+2026-04-04 11:33:56 Latest version is 1.12.7
+2026-04-04 11:33:56 App is up to date.
+2026-04-04 12:33:55 Checking for update using Github
+2026-04-04 12:33:56 Success.
+2026-04-04 12:33:56 Latest version is 1.12.7
+2026-04-04 12:33:56 App is up to date.
+2026-04-04 13:33:55 Checking for update using Github
+2026-04-04 13:33:56 Success.
+2026-04-04 13:33:56 Latest version is 1.12.7
+2026-04-04 13:33:56 App is up to date.
+2026-04-07 21:29:42 Loaded updated app package /home/coshi/.config/obsidian/obsidian-1.12.7.asar
+2026-04-07 21:29:42 Checking for update using Github
+2026-04-07 21:29:47 Success.
+2026-04-07 21:29:47 Latest version is 1.12.7
+2026-04-07 21:29:47 App is up to date.
+2026-04-08 08:15:39 Loaded updated app package /home/coshi/.config/obsidian/obsidian-1.12.7.asar
+2026-04-08 08:15:39 Checking for update using Github
+2026-04-08 08:15:39 Failed to check for update using Github (net::ERR_INTERNET_DISCONNECTED)
+2026-04-08 08:15:39 Checking for update using obsidian.md
+2026-04-08 08:15:39 Failed to check for update using obsidian.md (net::ERR_INTERNET_DISCONNECTED)
+2026-04-16 09:34:01 Loaded main app package /usr/lib/obsidian/obsidian.asar
+2026-04-16 09:34:01 Checking for update using Github
+2026-04-16 09:34:01 Failed to check for update using Github (net::ERR_INTERNET_DISCONNECTED)
+2026-04-16 09:34:01 Checking for update using obsidian.md
+2026-04-16 09:34:01 Failed to check for update using obsidian.md (net::ERR_INTERNET_DISCONNECTED)
+2026-04-16 10:34:00 Checking for update using Github
+2026-04-16 10:34:00 Success.
+2026-04-16 10:34:00 Latest version is 1.12.7
+2026-04-16 10:34:00 App is up to date.
+2026-04-16 19:33:41 Loaded main app package /usr/lib/obsidian/obsidian.asar
+2026-04-16 19:33:41 Checking for update using Github
+2026-04-16 19:33:42 Success.
+2026-04-16 19:33:42 Latest version is 1.12.7
+2026-04-16 19:33:42 App is up to date.
+2026-04-16 20:33:41 Checking for update using Github
+2026-04-16 20:33:42 Success.
+2026-04-16 20:33:42 Latest version is 1.12.7
+2026-04-16 20:33:42 App is up to date.
+2026-04-17 09:37:46 Loaded main app package /usr/lib/obsidian/obsidian.asar
+2026-04-17 09:37:46 Checking for update using Github
+2026-04-17 09:37:46 Success.
+2026-04-17 09:37:46 Latest version is 1.12.7
+2026-04-17 09:37:46 App is up to date.
+2026-04-17 13:06:34 Checking for update using Github
+2026-04-17 13:06:34 Success.
+2026-04-17 13:06:34 Latest version is 1.12.7
+2026-04-17 13:06:34 App is up to date.
+2026-04-17 14:06:34 Checking for update using Github
+2026-04-17 14:06:39 Failed to check for update using Github (net::ERR_ADDRESS_UNREACHABLE)
+2026-04-17 14:06:39 Checking for update using obsidian.md
+2026-04-17 14:06:45 Failed to check for update using obsidian.md (Unexpected end of JSON input)
+2026-04-19 19:43:04 Loaded main app package /usr/lib/obsidian/obsidian.asar
+2026-04-19 19:43:04 Checking for update using Github
+2026-04-19 19:43:04 Success.
+2026-04-19 19:43:04 Latest version is 1.12.7
+2026-04-19 19:43:04 App is up to date.
+2026-04-19 20:43:04 Checking for update using Github
+2026-04-19 20:43:04 Success.
+2026-04-19 20:43:04 Latest version is 1.12.7
+2026-04-19 20:43:04 App is up to date.
+2026-04-19 21:43:04 Checking for update using Github
+2026-04-19 21:43:04 Success.
+2026-04-19 21:43:04 Latest version is 1.12.7
+2026-04-19 21:43:04 App is up to date.
+2026-04-19 22:43:04 Checking for update using Github
+2026-04-19 22:43:05 Success.
+2026-04-19 22:43:05 Latest version is 1.12.7
+2026-04-19 22:43:05 App is up to date.
+2026-04-20 09:33:40 Loaded main app package /usr/lib/obsidian/obsidian.asar
+2026-04-20 09:33:40 Checking for update using Github
+2026-04-20 09:33:40 Failed to check for update using Github (net::ERR_INTERNET_DISCONNECTED)
+2026-04-20 09:33:40 Checking for update using obsidian.md
+2026-04-20 09:33:40 Failed to check for update using obsidian.md (net::ERR_INTERNET_DISCONNECTED)
+2026-04-20 16:05:31 Loaded main app package /usr/lib/obsidian/obsidian.asar
+2026-04-20 16:05:31 Checking for update using Github
+2026-04-20 16:05:32 Success.
+2026-04-20 16:05:32 Latest version is 1.12.7
+2026-04-20 16:05:32 App is up to date.
+2026-04-20 21:35:35 Loaded main app package /usr/lib/obsidian/obsidian.asar
+2026-04-20 21:35:35 Checking for update using Github
+2026-04-20 21:35:36 Success.
+2026-04-20 21:35:36 Latest version is 1.12.7
+2026-04-20 21:35:36 App is up to date.
+2026-04-21 10:14:07 Loaded main app package /usr/lib/obsidian/obsidian.asar
+2026-04-21 10:14:08 Checking for update using Github
+2026-04-21 10:14:08 Failed to check for update using Github (net::ERR_INTERNET_DISCONNECTED)
+2026-04-21 10:14:08 Checking for update using obsidian.md
+2026-04-21 10:14:08 Failed to check for update using obsidian.md (net::ERR_INTERNET_DISCONNECTED)
+2026-04-23 08:39:55 Loaded main app package /usr/lib/obsidian/obsidian.asar
+2026-04-23 08:39:55 Checking for update using Github
+2026-04-23 08:39:56 Success.
+2026-04-23 08:39:56 Latest version is 1.12.7
+2026-04-23 08:39:56 App is up to date.
+2026-04-23 11:28:57 Checking for update using Github
+2026-04-23 11:28:57 Failed to check for update using Github (net::ERR_FAILED)
+2026-04-23 11:28:57 Checking for update using obsidian.md
+2026-04-23 11:28:57 Failed to check for update using obsidian.md (net::ERR_FAILED)
+2026-04-24 07:25:18 Loaded main app package /usr/lib/obsidian/obsidian.asar
+2026-04-24 07:25:18 Checking for update using Github
+2026-04-24 07:25:19 Success.
+2026-04-24 07:25:19 Latest version is 1.12.7
+2026-04-24 07:25:19 App is up to date.
+2026-04-24 08:25:18 Checking for update using Github
+2026-04-24 08:25:19 Success.
+2026-04-24 08:25:19 Latest version is 1.12.7
+2026-04-24 08:25:19 App is up to date.
+2026-04-24 09:25:18 Checking for update using Github
+2026-04-24 09:25:19 Success.
+2026-04-24 09:25:19 Latest version is 1.12.7
+2026-04-24 09:25:19 App is up to date.
+2026-04-24 10:25:18 Checking for update using Github
+2026-04-24 10:25:19 Success.
+2026-04-24 10:25:19 Latest version is 1.12.7
+2026-04-24 10:25:19 App is up to date.
+2026-04-24 11:25:18 Checking for update using Github
+2026-04-24 11:25:21 Success.
+2026-04-24 11:25:21 Latest version is 1.12.7
+2026-04-24 11:25:21 App is up to date.
+2026-04-24 15:59:34 Loaded main app package /usr/lib/obsidian/obsidian.asar
+2026-04-24 15:59:34 Checking for update using Github
+2026-04-24 15:59:35 Success.
+2026-04-24 15:59:35 Latest version is 1.12.7
+2026-04-24 15:59:35 App is up to date.
+2026-04-25 07:59:37 Checking for update using Github
+2026-04-25 07:59:37 Success.
+2026-04-25 07:59:37 Latest version is 1.12.7
+2026-04-25 07:59:37 App is up to date.
+2026-04-26 12:25:26 Loaded main app package /usr/lib/obsidian/obsidian.asar
+2026-04-26 12:25:26 Checking for update using Github
+2026-04-26 12:25:26 Failed to check for update using Github (net::ERR_INTERNET_DISCONNECTED)
+2026-04-26 12:25:26 Checking for update using obsidian.md
+2026-04-26 12:25:26 Failed to check for update using obsidian.md (net::ERR_INTERNET_DISCONNECTED)
+2026-04-29 09:08:53 Loaded main app package /usr/lib/obsidian/obsidian.asar
+2026-04-29 09:08:53 Checking for update using Github
+2026-04-29 09:08:53 Failed to check for update using Github (net::ERR_INTERNET_DISCONNECTED)
+2026-04-29 09:08:53 Checking for update using obsidian.md
+2026-04-29 09:08:53 Failed to check for update using obsidian.md (net::ERR_INTERNET_DISCONNECTED)
+2026-05-05 18:54:04 Loaded main app package /usr/lib/obsidian/obsidian.asar
+2026-05-05 18:54:04 Checking for update using Github
+2026-05-05 18:54:04 Success.
+2026-05-05 18:54:04 Latest version is 1.12.7
+2026-05-05 18:54:04 App is up to date.
+2026-05-05 19:54:04 Checking for update using Github
+2026-05-05 19:54:04 Success.
+2026-05-05 19:54:04 Latest version is 1.12.7
+2026-05-05 19:54:04 App is up to date.
+2026-05-05 20:54:04 Checking for update using Github
+2026-05-05 20:54:04 Success.
+2026-05-05 20:54:04 Latest version is 1.12.7
+2026-05-05 20:54:04 App is up to date.
+2026-05-06 08:37:26 Loaded main app package /usr/lib/obsidian/obsidian.asar
+2026-05-06 08:37:26 Checking for update using Github
+2026-05-06 08:37:28 Success.
+2026-05-06 08:37:28 Latest version is 1.12.7
+2026-05-06 08:37:28 App is up to date.
+2026-05-06 09:37:26 Checking for update using Github
+2026-05-06 09:37:27 Success.
+2026-05-06 09:37:27 Latest version is 1.12.7
+2026-05-06 09:37:27 App is up to date.
+2026-05-06 18:39:07 Loaded main app package /usr/lib/obsidian/obsidian.asar
+2026-05-06 18:39:08 Checking for update using Github
+2026-05-06 18:39:22 Success.
+2026-05-06 18:39:22 Latest version is 1.12.7
+2026-05-06 18:39:22 App is up to date.
+2026-05-06 19:42:12 Checking for update using Github
+2026-05-06 19:42:21 Success.
+2026-05-06 19:42:21 Latest version is 1.12.7
+2026-05-06 19:42:21 App is up to date.
+2026-05-06 20:42:12 Checking for update using Github
+2026-05-06 20:42:18 Success.
+2026-05-06 20:42:18 Latest version is 1.12.7
+2026-05-06 20:42:18 App is up to date.
+2026-05-06 21:42:12 Checking for update using Github
+2026-05-06 21:42:13 Success.
+2026-05-06 21:42:13 Latest version is 1.12.7
+2026-05-06 21:42:13 App is up to date.
+2026-05-07 19:25:51 Loaded main app package /usr/lib/obsidian/obsidian.asar
+2026-05-07 19:25:52 Checking for update using Github
+2026-05-07 19:25:53 Success.
+2026-05-07 19:25:53 Latest version is 1.12.7
+2026-05-07 19:25:53 App is up to date.
+2026-05-07 20:25:51 Checking for update using Github
+2026-05-07 20:25:54 Success.
+2026-05-07 20:25:54 Latest version is 1.12.7
+2026-05-07 20:25:54 App is up to date.
+2026-05-07 21:25:52 Checking for update using Github
+2026-05-07 21:25:52 Success.
+2026-05-07 21:25:52 Latest version is 1.12.7
+2026-05-07 21:25:52 App is up to date.
+2026-05-08 07:27:07 Loaded main app package /usr/lib/obsidian/obsidian.asar
+2026-05-08 07:27:08 Checking for update using Github
+2026-05-08 07:27:09 Success.
+2026-05-08 07:27:09 Latest version is 1.12.7
+2026-05-08 07:27:09 App is up to date.
+2026-05-08 08:27:07 Checking for update using Github
+2026-05-08 08:27:08 Success.
+2026-05-08 08:27:08 Latest version is 1.12.7
+2026-05-08 08:27:08 App is up to date.
+2026-05-09 19:28:45 Loaded main app package /usr/lib/obsidian/obsidian.asar
+2026-05-09 19:28:45 Checking for update using Github
+2026-05-09 19:28:46 Success.
+2026-05-09 19:28:46 Latest version is 1.12.7
+2026-05-09 19:28:46 App is up to date.
+2026-05-19 18:25:00 Loaded main app package /usr/lib/obsidian/obsidian.asar
+2026-05-19 18:25:01 Checking for update using Github
+2026-05-19 18:25:07 Success.
+2026-05-19 18:25:07 Latest version is 1.12.7
+2026-05-19 18:25:07 App is up to date.
+2026-05-19 19:25:00 Checking for update using Github
+2026-05-19 19:25:07 Success.
+2026-05-19 19:25:07 Latest version is 1.12.7
+2026-05-19 19:25:07 App is up to date.
+2026-05-19 20:25:00 Checking for update using Github
+2026-05-19 20:25:01 Success.
+2026-05-19 20:25:01 Latest version is 1.12.7
+2026-05-19 20:25:01 App is up to date.
+2026-05-20 12:57:29 Loaded main app package /usr/lib/obsidian/obsidian.asar
+2026-05-20 12:57:29 Checking for update using Github
+2026-05-20 12:57:31 Success.
+2026-05-20 12:57:31 Latest version is 1.12.7
+2026-05-20 12:57:31 App is up to date.
+2026-05-20 13:57:29 Checking for update using Github
+2026-05-20 13:57:29 Success.
+2026-05-20 13:57:29 Latest version is 1.12.7
+2026-05-20 13:57:29 App is up to date.
+2026-05-20 14:57:29 Checking for update using Github
+2026-05-20 14:57:29 Success.
+2026-05-20 14:57:29 Latest version is 1.12.7
+2026-05-20 14:57:29 App is up to date.
+2026-05-20 15:57:29 Checking for update using Github
+2026-05-20 15:57:29 Success.
+2026-05-20 15:57:29 Latest version is 1.12.7
+2026-05-20 15:57:29 App is up to date.
+2026-05-20 16:57:29 Checking for update using Github
+2026-05-20 16:57:29 Success.
+2026-05-20 16:57:29 Latest version is 1.12.7
+2026-05-20 16:57:29 App is up to date.
+2026-05-20 17:57:29 Checking for update using Github
+2026-05-20 17:57:30 Success.
+2026-05-20 17:57:30 Latest version is 1.12.7
+2026-05-20 17:57:30 App is up to date.
+2026-05-20 18:57:29 Checking for update using Github
+2026-05-20 18:57:30 Success.
+2026-05-20 18:57:30 Latest version is 1.12.7
+2026-05-20 18:57:30 App is up to date.
+2026-05-20 19:44:00 Loaded main app package /usr/lib/obsidian/obsidian.asar
+2026-05-20 19:44:01 Checking for update using Github
+2026-05-20 19:44:01 Success.
+2026-05-20 19:44:01 Latest version is 1.12.7
+2026-05-20 19:44:01 App is up to date.
+2026-05-20 20:44:00 Checking for update using Github
+2026-05-20 20:44:01 Success.
+2026-05-20 20:44:01 Latest version is 1.12.7
+2026-05-20 20:44:01 App is up to date.
+2026-05-23 10:50:30 Loaded main app package /usr/lib/obsidian/obsidian.asar
+2026-05-23 10:50:30 Checking for update using Github
+2026-05-23 10:50:31 Success.
+2026-05-23 10:50:31 Latest version is 1.12.7
+2026-05-23 10:50:31 App is up to date.
+2026-05-23 16:02:55 Checking for update using Github
+2026-05-23 16:02:55 Success.
+2026-05-23 16:02:55 Latest version is 1.12.7
+2026-05-23 16:02:55 App is up to date.
+2026-05-23 17:02:55 Checking for update using Github
+2026-05-23 17:02:55 Success.
+2026-05-23 17:02:55 Latest version is 1.12.7
+2026-05-23 17:02:55 App is up to date.
+2026-05-23 18:02:55 Checking for update using Github
+2026-05-23 18:02:55 Success.
+2026-05-23 18:02:55 Latest version is 1.12.7
+2026-05-23 18:02:55 App is up to date.
+2026-05-23 19:02:55 Checking for update using Github
+2026-05-23 19:02:55 Success.
+2026-05-23 19:02:55 Latest version is 1.12.7
+2026-05-23 19:02:55 App is up to date.
+2026-05-23 20:02:55 Checking for update using Github
+2026-05-23 20:02:55 Success.
+2026-05-23 20:02:55 Latest version is 1.12.7
+2026-05-23 20:02:55 App is up to date.
+2026-05-26 13:20:31 Loaded main app package /usr/lib/obsidian/obsidian.asar
+2026-05-26 13:20:31 Checking for update using Github
+2026-05-26 13:20:32 Success.
+2026-05-26 13:20:32 Latest version is 1.12.7
+2026-05-26 13:20:32 App is up to date.
+2026-05-28 11:12:19 Loaded main app package /usr/lib/obsidian/obsidian.asar
+2026-05-28 11:12:19 Checking for update using Github
+2026-05-28 11:12:19 Success.
+2026-05-28 11:12:19 Latest version is 1.12.7
+2026-05-28 11:12:19 App is up to date.
+2026-05-28 11:16:59 Loaded main app package /usr/lib/obsidian/obsidian.asar
+2026-05-28 11:16:59 Checking for update using Github
+2026-05-28 11:17:00 Success.
+2026-05-28 11:17:00 Latest version is 1.12.7
+2026-05-28 11:17:00 App is up to date.

@@ -736,5 +736,9 @@
   "bar.bluetooth.label": false,
   "bar.network.truncation": true,
   "bar.network.label": false,
-  "theme.bar.buttons.modules.kbLayout.enableBorder": false
+  "theme.bar.buttons.modules.kbLayout.enableBorder": false,
+  "notifications.displayedTotal": 3,
+  "notifications.cache_actions": true,
+  "notifications.autoDismiss": true,
+  "notifications.clearDelay": 20
 }

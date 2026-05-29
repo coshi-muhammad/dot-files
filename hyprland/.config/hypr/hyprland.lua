@@ -1,0 +1,8 @@
+require("main_conf_files.env")
+require("main_conf_files.monitor")
+require("main_conf_files.input")
+require("main_conf_files.layout")
+require("main_conf_files.look")
+require("main_conf_files.windowrules")
+require("main_conf_files.keybinds")
+require("main_conf_files.startup")

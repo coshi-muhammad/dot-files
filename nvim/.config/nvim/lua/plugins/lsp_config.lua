@@ -24,6 +24,29 @@ return {
       vim.lsp.config('qmlls', {
         cmd = { 'qmlls', '-E' },
       })
+      vim.lsp.config("jdtls", {
+        settings = {
+          java = {
+            configuration = {
+              runtimes = {
+                {
+                  name = "JavaSE-26",
+                  path = "/usr/lib/jvm/java-26-openjdk",
+                  default = true,
+                },
+              },
+            },
+            eclipse = {
+              downloadSources = true,
+            },
+            compiler = {
+              compliance = "21",
+              source = "21",
+              target = "21",
+            },
+          },
+        },
+      })
       vim.api.nvim_create_autocmd("LspAttach", {
         callback = function(args)
           local opts = { buffer = args.buf }
