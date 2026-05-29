@@ -28,9 +28,8 @@ local globals = {
     fourth_mod = "SHIFT",
   },
   scripts = {
-    wallpaper_toggle = "/home/coshi/.config/hypr/scripts/wallpaper.sh",
-    power_profiles_toggle = "power_profiles",
-    idling_toggle = "idling",
+    power_profiles_toggle = "/home/coshi/.config/hypr/scripts/power_profiles.sh",
+    idling_toggle = "caelestia shell idleInhibitor toggle",
   }
 }
 

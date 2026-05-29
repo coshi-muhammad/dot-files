@@ -23,12 +23,8 @@ hl.bind(globals.key_combinations.secondary_mod .. " + Print", hl.dsp.exec_cmd(gl
 hl.bind(globals.key_combinations.main_mod .. " + W", function()
   hl.exec_cmd(globals.action_commands.panel_helper .. " wallpaper -r")
 end)
-hl.bind(globals.key_combinations.main_mod .. " + P", function()
-  require("scripts." .. globals.scripts.power_profiles_toggle)
-end)
-hl.bind("F9", function()
-  require("scripts." .. globals.scripts.idling_toggle)
-end)
+hl.bind(globals.key_combinations.main_mod .. " + P", hl.dsp.exec_cmd(globals.scripts.power_profiles_toggle))
+hl.bind("F9", hl.dsp.exec_cmd(globals.scripts.idling_toggle))
 
 -- caelestia controls
 hl.bind(globals.key_combinations.main_mod .. " + R",

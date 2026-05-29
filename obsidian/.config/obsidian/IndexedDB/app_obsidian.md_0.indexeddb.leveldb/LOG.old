@@ -1,3 +1,3 @@
-2026/05/28-12:12:20.626 12827 Reusing MANIFEST /home/coshi/.config/obsidian/IndexedDB/app_obsidian.md_0.indexeddb.leveldb/MANIFEST-000001
-2026/05/28-12:12:20.626 12827 Recovering log #53
-2026/05/28-12:12:20.665 12827 Reusing old log /home/coshi/.config/obsidian/IndexedDB/app_obsidian.md_0.indexeddb.leveldb/000053.log 
+2026/05/29-16:17:58.535 18cc Reusing MANIFEST /home/coshi/.config/obsidian/IndexedDB/app_obsidian.md_0.indexeddb.leveldb/MANIFEST-000001
+2026/05/29-16:17:58.536 18cc Recovering log #53
+2026/05/29-16:17:58.552 18cc Reusing old log /home/coshi/.config/obsidian/IndexedDB/app_obsidian.md_0.indexeddb.leveldb/000053.log 

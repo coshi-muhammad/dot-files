@@ -1,0 +1,59 @@
+{
+    "bar": {
+        "status": {
+            "showLockStatus": true
+        }
+    },
+    "dashboard": {
+        "performance": {
+            "showCpu": true
+        }
+    },
+    "general": {
+        "idle": {
+            "lockBeforeSleep": true,
+            "timeouts": [
+                {
+                    "idleAction": "lock",
+                    "timeout": 300
+                },
+                {
+                    "idleAction": "dpms off",
+                    "returnAction": "dpms on",
+                    "timeout": 600
+                }
+            ]
+        }
+    },
+    "lock": {
+        "enableFprint": false
+    },
+    "paths": {
+        "wallpaperDir": "/home/coshi/SharedData/media/Pictures/WallPapers"
+    },
+    "services": {
+        "smartScheme": true
+    },
+    "session": {
+        "commands": {
+            "hibernate": [
+                "systemctl",
+                "suspend"
+            ],
+            "logout": [
+                "hyprshutdown"
+            ],
+            "reboot": [
+                "systemctl",
+                "reboot"
+            ],
+            "shutdown": [
+                "systemctl",
+                "poweroff"
+            ]
+        },
+        "dragThreshold": 30,
+        "enabled": true,
+        "vimKeybinds": false
+    }
+}
